@@ -117,7 +117,7 @@ public class App {
 		Session session = Session.getInstance(properties, new Authenticator() {
 
 			String username = "gourav.srishti@gmail.com";
-			String password = "rock@on1";
+			String password = "********";
 
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() {
